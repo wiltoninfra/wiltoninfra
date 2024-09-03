@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Wilton!
 
+
 Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating scalable and efficient infrastructure solutions. I enjoy tackling complex problems and delivering high-quality software that makes an impact.
 
 ## 🚀 What I Do
@@ -28,9 +29,67 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 - **Email:** [wiltoninfra@gmail.com](mailto:wiltoninfra@gmail.com)
 - **LinkedIn:** [linkedin.com/in/wiltonguilherme](https://www.linkedin.com/in/wiltonguilherme)
 
-## 📈 GitHub Stats
 
-![Wilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiltoninfra&show_icons=true&theme=dark)
+
+
+### ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+--- 
+
+### 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=iuricode&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/iuricode/count.svg"
+    alt="Número de visitantes no perfil"
+  />
+</p>
+
 
 ## 🧩 Fun Fact
 
