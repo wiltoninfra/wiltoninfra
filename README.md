@@ -1,36 +1,59 @@
-# 👋 Hi, I'm Wilton!
+# 👋 Olá! Eu sou Wilton
 
+Profissional de TI com mais de 15 anos de experiência, atuando em setores como finanças, varejo, streaming e startups. Tenho uma sólida trajetória em projetos de grande escala em provedores de nuvem como AWS, Azure e Google Cloud. Minha especialização inclui metodologias ágeis, cultura DevOps, desenvolvimento de sistemas em ambientes complexos, e a criação de culturas FinOps e SRE para otimização financeira e confiabilidade dos sistemas.
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on creating scalable and efficient infrastructure solutions. I enjoy tackling complex problems and delivering high-quality software that makes an impact.
+Sou apaixonado por adaptabilidade, aprendizado contínuo, colaboração e empatia, sempre com foco em resultados. Como líder técnico, tenho experiência em análise de informações para tomada de decisões baseadas em dados, otimizando o desempenho e a eficiência operacional das plataformas de tecnologia.
 
-## 🚀 What I Do
+## 💻 Habilidades
 
-- **Backend Development:** I build robust and scalable backend systems using modern technologies.
-- **DevOps:** Automating and streamlining operations is my forte, using tools like Docker, Kubernetes, and CI/CD pipelines.
-- **Cloud Infrastructure:** I'm experienced in managing and optimizing cloud environments (AWS, Azure, Google Cloud).
-- **Open Source Contributor:** I contribute to open-source projects and believe in the power of collaborative development.
+- **Metodologias Ágeis & DevOps**: Promoção de colaboração eficaz entre equipes de desenvolvimento e operações, acelerando entregas e melhorando a qualidade do software.
+- **Engenharia de Software**: Desenvolvimento de soluções utilizando as melhores práticas e padrões de design de software.
+- **Site Reliability Engineering (SRE)**: Foco na confiabilidade, resiliência e desempenho de sistemas e serviços críticos.
+- **Desenvolvimento de Plataformas**: Automação de processos, padronização e eficiência operacional.
+- **Práticas de DevOps & CI/CD**: Promoção da integração contínua e entrega contínua, melhorando a colaboração entre equipes.
+- **Orquestração de Contêineres**: Configuração e gerenciamento de Kubernetes, Docker Swarm, OpenShift para facilitar a implantação e o dimensionamento de aplicativos.
+- **Segurança da Informação & Conformidade**: Implementação de políticas de acesso, criptografia, monitoramento de ameaças e conformidade com regulamentações como GDPR e HIPAA.
+- **Resolução de Problemas**: Abordagem criativa e eficiente para resolver problemas complexos, com rápida adaptação a novas tecnologias.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Ferramentas
 
-- **Languages:** Python, Go, JavaScript, Bash
-- **Frameworks:** Django, Flask, Express.js
-- **DevOps Tools:** Docker, Kubernetes, Terraform, Jenkins, Ansible
-- **Cloud Platforms:** AWS, Azure, Google Cloud
-- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
-- **Others:** Git, Linux, Nginx, Prometheus, Grafana
+### Observability Stack
+- Prometheus, Thanos, Cortex, Mimir
+- ElasticStack
+- Splunk, NewRelic, Datadog, Dynatrace
+- Grafana, Loki, Tempo
+- Graylog, Opetelemetry, Jaeger, Zupkin, Signos
 
-## 🌱 Currently Learning
+### Infraestrutura como Código (IaC)
+- Terraform, OpenTofu
+- Ansible, Puppet, Chef
+- AWS CloudFormation
 
-- **Advanced Kubernetes:** Enhancing my knowledge of Kubernetes for production-grade deployments.
-- **Machine Learning Ops (MLOps):** Exploring the intersection of machine learning and DevOps.
+### Orquestração de Contêineres
+- Kubernetes
+- AWS ECS
+- OpenShift
 
-## 📫 How to Reach Me
+### GitOps Pipeline
+- Helm, Kustomize
+- Jenkins
+- Github Actions
+- Amazon Code Pipeline
+- Azure DevOps
+- Bitbucket e GitLab Pipeline
+- ArgoCD
 
-- **Email:** [wiltoninfra@gmail.com](mailto:wiltoninfra@gmail.com)
-- **LinkedIn:** [linkedin.com/in/wiltonguilherme](https://www.linkedin.com/in/wiltonguilherme)
+### Incident Management
+- PagerDuty
+- OpsGenie
 
+### Linguagens de Programação
+- Golang
+- Python
+- PHP
+- JavaScript/TypeScript
 
-
+---
 
 ### ⚙️ GitHub Analytics
 
